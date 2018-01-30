@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: rest-todo-springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: macbookpro
+Implementation-Vendor-Id: br.com.mayribeiro
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/rest-todo-sp
+ ringboot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
