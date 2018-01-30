@@ -1,0 +1,235 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "br.com.ag.boot.config.JpaConfig",
+      "name": "datasource.abapai",
+      "sourceMethod": "public org.springframework.boot.autoconfigure.jdbc.DataSourceProperties getDataSourceProperties() ",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.xa",
+      "sourceMethod": "public org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.Xa getXa() ",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.xa",
+      "sourceMethod": "public org.springframework.boot.autoconfigure.jdbc.DataSourceProperties.Xa getXa() ",
+      "type": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.continue-on-error",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.data",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.data-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.data-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.generate-unique-name",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.initialization-mode",
+      "type": "org.springframework.boot.jdbc.DataSourceInitializationMode"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.jndi-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.platform",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.schema",
+      "type": "java.util.List<java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.schema-password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.schema-username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.separator",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.sql-script-encoding",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.type",
+      "type": "java.lang.Class<? extends javax.sql.DataSource>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties",
+      "name": "datasource.abapai.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa",
+      "name": "datasource.abapai.xa.data-source-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa",
+      "name": "datasource.abapai.xa.data-source-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa",
+      "name": "datasource.abapai.xa.properties",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    },
+    {
+      "sourceType": "org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$Xa",
+      "name": "datasource.abapai.xa.properties",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    }
+  ]
+}

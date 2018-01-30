@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-angularjs-crud
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: macbookpro
+Implementation-Vendor-Id: br.com.ag.boot
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/springboot-angularjs-crud/
+Created-By: Maven Integration for Eclipse
+
